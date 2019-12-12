@@ -1,0 +1,30 @@
+This is the text for the 
+FlyCam_Extended movement mode:
+
+
+
+
+
+FEATURES
+WASD or Arrows:    Movement
+Q = Up    E = Down
+Shift:       Move faster
+Control:  Move slower
+End:        Toggle cursor - best if off
+
+
+press Escape to exit menu
+
+
+
+
+This is the text for the Fly_Camera_Walk mode:
+
+ WASD : Basic movement
+ Q = Up  E = Down
+ Shift : Move faster
+ Space : keeps level no change in height
+ F : Change Fly or Walk mode
+ End:    Toggle cursor - best if off
+
+press Escape to exit menu
