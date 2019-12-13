@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "5.6_i-3D_Template",
+"dataUrl": "web1.data.unityweb",
+"wasmCodeUrl": "web1.wasm.code.unityweb",
+"wasmFrameworkUrl": "web1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
