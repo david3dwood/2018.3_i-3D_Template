@@ -1,0 +1,12 @@
+{
+"companyName": "D3",
+"productName": "2018.3_i-3D_Template",
+"dataUrl": "web4.data.unityweb",
+"wasmCodeUrl": "web4.wasm.code.unityweb",
+"wasmFrameworkUrl": "web4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
